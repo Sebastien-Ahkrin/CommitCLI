@@ -1,0 +1,25 @@
+{
+  "name": "commitcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "strip": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastien-Ahkrin/CommitCLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastien-Ahkrin/CommitCLI/issues"
+  },
+  "homepage": "https://github.com/Sebastien-Ahkrin/CommitCLI#readme",
+  "dependencies": {
+    "sade": "^1.7.0"
+  }
+}
