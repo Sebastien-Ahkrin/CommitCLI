@@ -8,13 +8,6 @@ prog
   .version('1.0.0')
 
 prog
-  .command('hello')
-  .describe('Hello, World!')
-  .action(() => {
-    console.log('Hello, World!')
-  })
-
-prog
   .command('list')
   .describe('List every commit strip')
   .action(async () => {
