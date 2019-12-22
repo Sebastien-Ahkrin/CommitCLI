@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Sebastien-Ahkrin/CommitCLI#readme",
   "dependencies": {
+    "open": "^7.0.0",
     "qoa": "^0.2.0",
     "sade": "^1.7.0",
     "wpapi": "^1.2.1"
